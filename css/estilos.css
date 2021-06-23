@@ -206,6 +206,7 @@ header{
 }
 .foto-equipo img{
     width: 100%;
+    height: auto; /* Hacer resposiva la imagen en dispositivos moviles */
 }
 
 .conocenos{
@@ -262,10 +263,6 @@ header{
     }
     .conocenos{
         text-align: left;
-    }
-    
-    .foto-equipo img{
-        height: auto; /* Hacer resposiva la imagen en dispositivos moviles */
     }
  }
 
