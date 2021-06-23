@@ -263,6 +263,10 @@ header{
     .conocenos{
         text-align: left;
     }
+    
+    .foto-equipo img{
+        height: auto; /* Hacer resposiva la imagen en dispositivos moviles */
+    }
  }
 
 /*----- ----- FIN SOBRE NOSOTROS ----- -----*/
